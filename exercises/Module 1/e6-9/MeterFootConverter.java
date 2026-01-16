@@ -1,6 +1,6 @@
 
 
-public class Main {
+public class MeterFootConverter {
     /** Convert from feet to meters */
     public static double footToMeter(double foot) {
         return 0.305 * foot;
